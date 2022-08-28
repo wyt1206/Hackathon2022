@@ -1,41 +1,41 @@
-@string/appbar_scrolling_view_behavior;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-alpha;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
-alpha;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
-androidx.appcompat.widget.Toolbar;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\fallbacktoolbardonotuse.xml
-androidx.appcompat.widget.Toolbar;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-androidx.appcompat.widget.Toolbar;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
-androidx.appcompat.widget.Toolbar;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\toolbar.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-androidx.coordinatorlayout.widget.CoordinatorLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
-attr;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
+@string/appbar_scrolling_view_behavior;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+alpha;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
+attr;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
 color;obj\Debug\100\res\values\colors.xml
-com.google.android.material.appbar.AppBarLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\flyoutcontent.xml
-com.google.android.material.appbar.AppBarLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-com.google.android.material.appbar.AppBarLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
-com.google.android.material.bottomnavigation.BottomNavigationView;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
-com.google.android.material.tabs.TabLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\fallbacktabbardonotuse.xml
-com.google.android.material.tabs.TabLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-com.google.android.material.tabs.TabLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\tabbar.xml
-declare-styleable;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
-FrameLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
-item;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\tabbar.xml
+declare-styleable;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
+FrameLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
+item;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
 item;obj\Debug\100\res\values\styles.xml
-LinearLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
-resources;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
-resources;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\strings.xml
-resources;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
+LinearLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\bottomtablayout.xml
+resources;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\attrs.xml
+resources;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\strings.xml
+resources;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
 resources;obj\Debug\100\res\values\colors.xml
 resources;obj\Debug\100\res\values\styles.xml
-set;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
-set;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromright.xml
-set;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
-set;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoright.xml
-string;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\strings.xml
-style;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
+set;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
+set;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromright.xml
+set;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
+set;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoright.xml
+string;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\strings.xml
+style;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\values\styles.xml
 style;obj\Debug\100\res\values\styles.xml
-translate;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
-translate;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromright.xml
-translate;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
-translate;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
-xamarin.forms.platform.android.ShellFlyoutLayout;E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\flyoutcontent.xml
+translate;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromleft.xml
+translate;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\enterfromright.xml
+translate;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoleft.xml
+translate;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo.Android\obj\Debug\100\lp\43\jl\res\layout\flyoutcontent.xml

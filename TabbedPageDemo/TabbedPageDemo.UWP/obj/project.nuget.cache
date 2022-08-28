@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dC17gP1IiXDT4S8Px8L7ss0sIpJebLYHpgI8ERk3LOvgt1SJ+H/r9LuhrDJR4QfoIWXsSkFn0EdPGXuZkUHfHg==",
+  "dgSpecHash": "LDtM+Mv/PCQ8xMzZXEHTjbPI0R7tQWUohKjlmfclSgVmiBzlAyF7FWB9GkVSfkLEw7Q2T4/lSbcgPQNDoNN6ww==",
   "success": true,
   "projectFilePath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "C:\\Users\\daruan\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.1.2\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
     "C:\\Users\\daruan\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.0.12\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.0.12.nupkg.sha512",
     "C:\\Users\\daruan\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
-    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,7 +6,8 @@ namespace TabbedPageDemo
     {
         public TabbedPageDemoPageCS()
         {
-            //var booleanConverter = new NonNullToBooleanConverter();
+
+            var booleanConverter = new NonNullToBooleanConverter();
 
             //ItemTemplate = new DataTemplate(() =>
             //{
@@ -120,32 +121,19 @@ namespace TabbedPageDemo
             //ItemsSource = MonkeyDataModel.All;
 
             var page1 = new ContentPage
-            {             
+            {
             };
             var page2 = new ContentPage
             {
-                Title = "Tab2",
-                Content = new Label
-                {
-                    Text = "I'm the Tab2 Page",
-                    HorizontalOptions = LayoutOptions.Center,
-                    VerticalOptions = LayoutOptions.Center
-                }
             };
             var page3 = new ContentPage
             {
-                Title = "Tab3",
-                Content = new Label
-                {
-                    Text = "I'm the Tab2 Page",
-                    HorizontalOptions = LayoutOptions.Center,
-                    VerticalOptions = LayoutOptions.Center
-                }
             };
             var tabbedPage = new TabbedPage
             {
                 Children = { page1, page2, page3 }
             };
+
         }
     }
 }
