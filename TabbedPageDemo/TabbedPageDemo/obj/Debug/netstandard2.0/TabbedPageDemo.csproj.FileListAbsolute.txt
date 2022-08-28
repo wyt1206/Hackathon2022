@@ -1,0 +1,11 @@
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.deps.json
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.dll
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.pdb
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.csprojAssemblyReference.cache
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemoPage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.AssemblyInfoInputs.cache
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.AssemblyInfo.cs
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.csproj.CoreCompileInputs.cache
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.dll
+C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.pdb
