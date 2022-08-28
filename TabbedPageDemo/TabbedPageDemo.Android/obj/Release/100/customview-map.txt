@@ -1,0 +1,5 @@
+color;obj\Release\100\res\values\colors.xml
+item;obj\Release\100\res\values\styles.xml
+resources;obj\Release\100\res\values\colors.xml
+resources;obj\Release\100\res\values\styles.xml
+style;obj\Release\100\res\values\styles.xml
