@@ -9,3 +9,15 @@ C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netst
 C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.dll
 C:\Users\daruan\Desktop\TabbedPage\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.pdb
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.deps.json
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.dll
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\bin\Debug\netstandard2.0\TabbedPageDemo.pdb
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.csproj.AssemblyReference.cache
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemoPage.xaml.g.cs
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.AssemblyInfoInputs.cache
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.AssemblyInfo.cs
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.csproj.CoreCompileInputs.cache
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.dll
+E:\visual studio\hackathon\TabbedPageDemo\TabbedPageDemo\obj\Debug\netstandard2.0\TabbedPageDemo.pdb

@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj": {}
+    "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj": {
+    "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
+        "projectUniqueName": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
         "projectName": "TabbedPageDemo.iOS",
-        "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
-        "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.iOS\\obj\\",
+        "projectPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
+        "packagesPath": "C:\\Users\\zhengzeli\\.nuget\\packages\\",
+        "outputPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\daruan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\zhengzeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -28,14 +26,13 @@
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
-                "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
+              "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+                "projectPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
               }
             }
           }
@@ -63,22 +60,20 @@
         }
       }
     },
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+    "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
+        "projectUniqueName": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
         "projectName": "TabbedPageDemo",
-        "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
-        "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\obj\\",
+        "projectPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
+        "packagesPath": "C:\\Users\\zhengzeli\\.nuget\\packages\\",
+        "outputPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\daruan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\zhengzeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -86,7 +81,6 @@
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,7 +120,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.217\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
