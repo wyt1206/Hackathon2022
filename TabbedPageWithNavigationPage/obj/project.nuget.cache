@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvMHldr3TcbiLV7S8AAu45trEJiG/n4nAOfA6w2Ey75Skghur4yIBorJ33gwhZ164Jly46uHJvRUY5L2R53TVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageWithNavigationPage\\TabbedPageWithNavigationPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daruan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

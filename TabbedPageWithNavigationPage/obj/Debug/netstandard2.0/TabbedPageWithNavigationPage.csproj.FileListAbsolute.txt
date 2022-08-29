@@ -1,0 +1,15 @@
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.deps.json
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.dll
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.pdb
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.csprojAssemblyReference.cache
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\SchedulePage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TodayPage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\UpcomingAppointmentsPage.xaml.g.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.AssemblyInfoInputs.cache
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.AssemblyInfo.cs
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.csproj.CoreCompileInputs.cache
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.dll
+C:\Users\daruan\Desktop\TabbedPageWithNavigationPage\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.pdb
