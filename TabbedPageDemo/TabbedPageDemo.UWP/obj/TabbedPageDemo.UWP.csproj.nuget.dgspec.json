@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj": {}
+    "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj": {
+    "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
         "projectName": "TabbedPageDemo.UWP",
-        "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
+        "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
         "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\obj\\",
+        "outputPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -35,8 +35,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
-                "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
+              "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+                "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.1874, )"
+              "version": "[5.0.0.2515, )"
             }
           },
           "imports": [
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+    "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
+        "projectUniqueName": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
         "projectName": "TabbedPageDemo",
-        "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
+        "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj",
         "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\obj\\",
+        "outputPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -135,7 +135,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.1874, )"
+              "version": "[5.0.0.2515, )"
             }
           },
           "imports": [

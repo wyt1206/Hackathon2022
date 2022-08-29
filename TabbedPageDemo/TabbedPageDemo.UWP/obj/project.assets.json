@@ -290,7 +290,7 @@
           }
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -317,7 +317,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -780,7 +780,7 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -807,7 +807,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -1271,7 +1271,7 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -1298,7 +1298,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -1583,7 +1583,7 @@
           "lib/uap10.0/Microsoft.Graphics.Canvas.winmd": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -1610,7 +1610,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -2073,7 +2073,7 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -2100,7 +2100,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -2564,7 +2564,7 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -2591,7 +2591,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -3054,7 +3054,7 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -3081,7 +3081,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -3545,7 +3545,7 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "dependencies": {
           "Microsoft.UI.Xaml": "2.4.3",
@@ -3572,7 +3572,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -7176,10 +7176,10 @@
         "win2d.uwp.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.1874": {
-      "sha512": "DddatpRCi4WvM4pBuDfRtKr/KkhFZoVE1KLNFwbOfltVUecqf78y8VaIDDU/iddfNfMSSzoqDBWpZgNj6lFyxA==",
+    "Xamarin.Forms/5.0.0.2515": {
+      "sha512": "n/Y/xk1idWRkxk7xItwvNwwda7CHpIk7JxD6tXkGXmTqiVGV1xRkepf5aKXFkQLM9KIQhXXYBxPsdyJysPpktw==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.1874",
+      "path": "xamarin.forms/5.0.0.2515",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7388,7 +7388,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.1874.nupkg.sha512",
+        "xamarin.forms.5.0.0.2515.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -7402,7 +7402,7 @@
     "UAP,Version=v10.0.16299": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.0.12",
       "TabbedPageDemo >= 1.0.0",
-      "Xamarin.Forms >= 5.0.0.1874"
+      "Xamarin.Forms >= 5.0.0.2515"
     ]
   },
   "packageFolders": {
@@ -7414,11 +7414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
       "projectName": "TabbedPageDemo.UWP",
-      "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
+      "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\TabbedPageDemo.UWP.csproj",
       "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo.UWP\\obj\\",
+      "outputPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7442,8 +7442,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
-              "projectPath": "C:\\Users\\daruan\\Desktop\\TabbedPage\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
+            "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+              "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
             }
           }
         }
@@ -7458,7 +7458,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.1874, )"
+            "version": "[5.0.0.2515, )"
           }
         },
         "imports": [

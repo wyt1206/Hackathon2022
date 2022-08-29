@@ -6,7 +6,9 @@ namespace TabbedPageDemo
 	{
 		public App ()
 		{
-			MainPage = new TabbedPageDemoPage ();
+			var tabs = new TabbedPage();
+			tabs.Children.Add(new TabbedPageDemoPage());
+			MainPage = tabs;
 		}
 	}
 }

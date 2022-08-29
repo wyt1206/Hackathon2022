@@ -7,6 +7,7 @@ namespace TabbedPageDemo
 		public TabbedPageDemoPage ()
 		{
 			InitializeComponent ();
-		}
+            
+        }
 	}
 }

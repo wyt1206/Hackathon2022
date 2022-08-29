@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -129,7 +129,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -140,7 +140,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -267,7 +267,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -278,7 +278,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -405,7 +405,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -416,7 +416,7 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
-      "Xamarin.Forms/5.0.0.1874": {
+      "Xamarin.Forms/5.0.0.2515": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -543,7 +543,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "5.0.0.1874"
+          "Xamarin.Forms": "5.0.0.2515"
         },
         "compile": {
           "bin/placeholder/TabbedPageDemo.dll": {}
@@ -555,10 +555,10 @@
     }
   },
   "libraries": {
-    "Xamarin.Forms/5.0.0.1874": {
-      "sha512": "DddatpRCi4WvM4pBuDfRtKr/KkhFZoVE1KLNFwbOfltVUecqf78y8VaIDDU/iddfNfMSSzoqDBWpZgNj6lFyxA==",
+    "Xamarin.Forms/5.0.0.2515": {
+      "sha512": "n/Y/xk1idWRkxk7xItwvNwwda7CHpIk7JxD6tXkGXmTqiVGV1xRkepf5aKXFkQLM9KIQhXXYBxPsdyJysPpktw==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.1874",
+      "path": "xamarin.forms/5.0.0.2515",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -767,7 +767,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.1874.nupkg.sha512",
+        "xamarin.forms.5.0.0.2515.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -780,28 +780,31 @@
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "TabbedPageDemo >= 1.0.0",
-      "Xamarin.Forms >= 5.0.0.1874"
+      "Xamarin.Forms >= 5.0.0.2515"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zhengzeli\\.nuget\\packages\\": {},
+    "C:\\Users\\daruan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
       "projectName": "TabbedPageDemo.iOS",
-      "projectPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
-      "packagesPath": "C:\\Users\\zhengzeli\\.nuget\\packages\\",
-      "outputPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo.iOS\\obj\\",
+      "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.iOS\\TabbedPageDemo.iOS.csproj",
+      "packagesPath": "C:\\Users\\daruan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\zhengzeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\daruan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -809,13 +812,14 @@
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
-              "projectPath": "E:\\visual studio\\hackathon\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
+            "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj": {
+              "projectPath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\TabbedPageDemo\\TabbedPageDemo\\TabbedPageDemo.csproj"
             }
           }
         }
@@ -826,7 +830,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.1874, )"
+            "version": "[5.0.0.2515, )"
           }
         }
       }
