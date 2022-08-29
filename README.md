@@ -1,18 +1,18 @@
 ---
-name: Xamarin.Forms - TabbedPage
-description: "How to use a TabbedPage to navigate through a collection of pages (navigation)"
+name: Xamarin.Forms - TabbedPage with NavigationPage
+description: "This sample demonstrates how embed a NavigationPage in a TabbedPage, in order to perform page navigation within a tab (navigation)"
 page_type: sample
 languages:
 - csharp
 products:
 - xamarin
-urlFragment: navigation-tabbedpage
+urlFragment: navigation-tabbedpagewithnavigationpage
 ---
-# TabbedPage
+# TabbedPage with NavigationPage
 
-This sample demonstrates how to use a `TabbedPage` to navigate through a collection of pages. The `TabbedPage` is constructed by assigning a collection to the `ItemsSource` property and assigning a `DataTemplate` to the `ItemTemplate` property to return pages for objects in the collection.
+This sample demonstrates how embed a `NavigationPage` in a `TabbedPage`, in order to perform page navigation within a tab. The `TabbedPage` is constructed by populating it with a collection of child `Page` objects.
 
-For more information about the sample see [Tabbed Page](https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/navigation/tabbed-page/).
+For more information about the sample see [Tabbed Page](https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/navigation/tabbed-page).
 
-![TabbedPage application screenshot](Screenshots/01All.png "TabbedPage application screenshot")
+![TabbedPage with NavigationPage application screenshot](Screenshots/01All.png "TabbedPage with NavigationPage application screenshot")
 

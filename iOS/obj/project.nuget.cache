@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHcuu5EYAnQaHcyPiOPexmKbZI2aiiDgb2mnD/x9EDqZGWY8DMff8yAYvgYR7CrsSE68sa78o1IulIq6eH+psg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\iOS\\TabbedPageWithNavigationPage.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
