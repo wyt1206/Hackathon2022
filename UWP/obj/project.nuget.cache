@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+vgyS3JFC73ShYQpjufFtrzVZqYhYv1LVS8DZQcw7ym/KVAmjZkzlcO1L7pBBguMGcVsQW5nDpSmkmLwTIzwdg==",
+  "dgSpecHash": "vj+BK4SKVAxq+J1Dh+pq1/PtWxntLubOaC7KWRTBDlntReThMReVryrlzhfqXScM6LMWPdqEGZSPSuaMSCUOWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\UWP\\TabbedPageWithNavigationPage.UWP.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,15 @@
     "C:\\Users\\daruan\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.0.12\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.0.12.nupkg.sha512",
     "C:\\Users\\daruan\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.1.2\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
     "C:\\Users\\daruan\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.0.12\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.0.12.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\daruan\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
-    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
   ],
   "logs": []
 }

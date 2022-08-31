@@ -1,0 +1,1 @@
+C:\Users\daruan\source\repos\Hackathon2022\UWP\TabbedPageWithNavigationPage.UWP.csproj;x86

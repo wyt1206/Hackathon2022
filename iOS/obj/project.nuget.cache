@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "KHcuu5EYAnQaHcyPiOPexmKbZI2aiiDgb2mnD/x9EDqZGWY8DMff8yAYvgYR7CrsSE68sa78o1IulIq6eH+psg==",
+  "dgSpecHash": "NK5oBa3s5UAlBWnDQ+f0X29IfINs1ew0Cztd2sAkGV2DJNlfKpAcyVYZVqjPsbJexCb1aqSCHcKnwICQnTxfCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\daruan\\source\\repos\\Hackathon2022\\iOS\\TabbedPageWithNavigationPage.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\daruan\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
   ],
   "logs": []
 }

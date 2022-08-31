@@ -3,10 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              android:TabbedPage.ToolbarPlacement="Bottom"
-             x:Class="TabbedPageWithNavigationPage.SettingsPage" IconImageSource="settings.png" Title="Settings">
-	<ContentPage.Content>
-		<StackLayout>
-			<Label Text="Settings go here" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
-		</StackLayout>
-	</ContentPage.Content>
+             x:Class="TabbedPageWithNavigationPage.SettingsPage" IconImageSource="settings.png" Title="Me">
+    <StackLayout>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Me">
+                    <EntryCell x:Name="nameEntry" Label="Name" Placeholder="Default" Text ="{Binding Name}" Keyboard="Text" />
+                    <EntryCell x:Name="genderEntry" Label="Gender" Placeholder="Male" Text ="{Binding Gender}" Keyboard="Text" />
+                    <EntryCell x:Name="ageEntry" Label="Age" Placeholder="25" Keyboard="Numeric" Text="{Binding Age}"/>
+                    <EntryCell x:Name="heightEntry" Label="Height" Placeholder="160" Keyboard="Numeric" Text ="{Binding Height}"/>
+                    <EntryCell x:Name="weightEntry" Label="Weight" Placeholder="50" Text ="{Binding Weight}" Keyboard="Numeric"/>
+                    <EntryCell x:Name="telephoneEntry" Label="Telephone" Placeholder="+1 012 345 6789" Keyboard="Telephone" Text ="{Binding Telephone}"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+        <Grid>
+            <Button Text="Save" 
+                        Clicked="OnSaveButtonClicked" />
+        </Grid>
+
+    </StackLayout>
+
 </ContentPage>
