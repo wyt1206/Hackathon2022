@@ -7,5 +7,6 @@
 			<local:SchedulePage />
 		</x:Arguments>
 	</NavigationPage>
-	<local:SettingsPage />
+	<!--<local:SettingsPage />-->
+    <local:user_profile />
 </TabbedPage>

@@ -1,0 +1,466 @@
+<ContentPage x:Class="main_page___scenario.report___detail"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="report___detail">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+			<AbsoluteLayout x:Name="page_report___detail_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,390,844"
+				 >
+
+				<BoxView x:Name="_bg__report___detail_ek2"
+					Color="#FFFFFF"
+					AbsoluteLayout.LayoutBounds="0,0,390,844" />
+				<BoxView x:Name="noise_texture_light_ek1"
+					Color="#FAFAFA"
+					AbsoluteLayout.LayoutBounds="0,0,390,844" />
+				<BoxView x:Name="white_background"
+					Color="#FFFFFF"
+					AbsoluteLayout.LayoutBounds="0,294,390,550" />
+				<Label x:Name="speaker_and_microphone_are_mirrored_into_one__sound_is_released_from_one_side_"
+					FontFamily="Actor"
+					Opacity="0.6"
+					FontSize="18"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="-458,2216,293,103"
+					Text="All templates are based on consistent grid layout icon set and typography styles"
+				 />
+				<Label x:Name="blue_egg"
+					FontFamily="Actor"
+					Opacity="0.9"
+					FontSize="28"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="60,139,288,55"
+					Text="Report 20220902"
+				 />
+
+				<AbsoluteLayout x:Name="icon_15px_star"
+					 AbsoluteLayout.LayoutBounds="60,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek11"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path"
+						Source="path.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="icon_15px_star_ek1"
+					 AbsoluteLayout.LayoutBounds="85,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek12"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path_ek1"
+						Source="path_ek1.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="icon_15px_star_ek2"
+					 AbsoluteLayout.LayoutBounds="135,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek13"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path_ek2"
+						Source="path_ek2.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="icon_15px_star_ek3"
+					 AbsoluteLayout.LayoutBounds="157,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek14"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path_ek3"
+						Source="path_ek3.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="icon_15px_star_ek4"
+					 AbsoluteLayout.LayoutBounds="180,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek15"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path_ek4"
+						Source="path_ek4.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="icon_15px_star_ek5"
+					 AbsoluteLayout.LayoutBounds="110,534,15,15"
+					 >
+
+					<BoxView x:Name="bounds_ek16"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,15,15" />
+					<Image x:Name="path_ek5"
+						Source="path_ek5.png"
+						AbsoluteLayout.LayoutBounds="1.74,2,11.52,11" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="component___top_bar___standard_ek1"
+					 AbsoluteLayout.LayoutBounds="0,0,390,104"
+					 >
+
+
+					<AbsoluteLayout x:Name="component___top_bar_ek1"
+						 AbsoluteLayout.LayoutBounds="0,0,390,104"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___top_bar_ek1"
+							 AbsoluteLayout.LayoutBounds="0,0,390,104"
+							 >
+
+							<BoxView x:Name="top_bar_container_ek1"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,390,104" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="white_color_ek2"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,103,390,1" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="icon_30px_bookmark"
+							 AbsoluteLayout.LayoutBounds="340,59,30,30"
+							 >
+
+							<BoxView x:Name="bounds_ek17"
+								Color="#ffffff"
+								AbsoluteLayout.LayoutBounds="0,0,30,30" />
+							<Image x:Name="shape_ek4"
+								Source="shape_ek4.png"
+								AbsoluteLayout.LayoutBounds="6,5,18,23" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="icon_30px_arrow_left"
+							 AbsoluteLayout.LayoutBounds="20,59,30,30"
+							 >
+
+							<BoxView x:Name="bounds_ek18"
+								Color="#ffffff"
+								AbsoluteLayout.LayoutBounds="0,0,30,30" />
+							<Image x:Name="path_ek6"
+								Source="path_ek6.png"
+								AbsoluteLayout.LayoutBounds="2,7,26,16" />
+						</AbsoluteLayout>
+
+						<Label x:Name="___ek1"
+							FontFamily="Actor"
+							HorizontalTextAlignment="Center"
+							Opacity="0.9"
+							FontSize="18"
+							TextColor="#262626"
+							AbsoluteLayout.LayoutBounds="191,59,16,43"
+							Text=""
+						 />
+					</AbsoluteLayout>
+
+				</AbsoluteLayout>
+
+				<Image x:Name="shadow_ek13"
+					Source="shadow_ek13.png"
+					AbsoluteLayout.LayoutBounds="88,279,59,173" />
+				<Image x:Name="egg_blue_ek1"
+					Source="egg_blue_ek1.png"
+					AbsoluteLayout.LayoutBounds="60,254,115,200" />
+
+				<AbsoluteLayout x:Name="component___home_indicator_ek1"
+					 AbsoluteLayout.LayoutBounds="-518,2457,390,34"
+					 >
+
+					<BoxView x:Name="dark_color_13_ek1"
+						CornerRadius="3"
+						Opacity="0.1"
+						Color="#262626"
+						AbsoluteLayout.LayoutBounds="120,20,150,6" />
+				</AbsoluteLayout>
+
+				<Label x:Name="_1926"
+					FontFamily="Actor"
+					Opacity="0.9"
+					FontSize="18"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="-458,2357,57,43"
+					Text="1926"
+				 />
+				<Label x:Name="comments"
+					FontFamily="Actor"
+					Opacity="0.4"
+					FontSize="10"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="-458,2386,76,17"
+					Text="Comments"
+				 />
+
+				<AbsoluteLayout x:Name="component___button___normal"
+					 AbsoluteLayout.LayoutBounds="-335,2356,147,50"
+					 >
+
+
+					<AbsoluteLayout x:Name="button___normal"
+						 AbsoluteLayout.LayoutBounds="0,0,147,50"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___prime_accent___8px_rounded_corners"
+							 AbsoluteLayout.LayoutBounds="0,0,147,50"
+							 >
+
+
+							<AbsoluteLayout x:Name="container___prime_accent___8px_rounded_corners_ek1"
+								 AbsoluteLayout.LayoutBounds="0,0,147,50"
+								 >
+
+								<BoxView x:Name="drop_shadow_2"
+									CornerRadius="8"
+									Opacity="0"
+									Color="#000000"
+									AbsoluteLayout.LayoutBounds="0,0,147,50" > 
+																	<!-- Effect support coming soon for Xamarin Forms -->
+								</BoxView>
+								<BoxView x:Name="background_color_ek6"
+									CornerRadius="8"
+									Color="#5D4AFF"
+									AbsoluteLayout.LayoutBounds="0,0,147,50" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+						<Label x:Name="button_label"
+							FontFamily="Actor"
+							FontSize="14"
+							TextColor="#FFFFFF"
+							AbsoluteLayout.LayoutBounds="20,15,73,30"
+							Text="Purchase"
+						 />
+
+						<AbsoluteLayout x:Name="icon_10px_chevron_right"
+							 AbsoluteLayout.LayoutBounds="117,20,10,10"
+							 >
+
+							<BoxView x:Name="bounds_ek19"
+								Color="#ffffff"
+								AbsoluteLayout.LayoutBounds="0,0,10,10" />
+							<Image x:Name="path_ek7"
+								Source="path_ek7.png"
+								AbsoluteLayout.LayoutBounds="3,0,6,10" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+				</AbsoluteLayout>
+
+				<Image x:Name="shadow_ek14"
+					Source="shadow_ek14.png"
+					AbsoluteLayout.LayoutBounds="308,261,14,42" />
+				<Image x:Name="egg_orange"
+					Source="egg_orange.png"
+					AbsoluteLayout.LayoutBounds="300,254,30,50" />
+				<Image x:Name="shadow_ek15"
+					Source="shadow_ek15.png"
+					AbsoluteLayout.LayoutBounds="308,336,14,42" />
+				<Image x:Name="egg_purple"
+					Source="egg_purple.png"
+					AbsoluteLayout.LayoutBounds="300,329,30,50" />
+				<Image x:Name="shadow_ek16"
+					Source="shadow_ek16.png"
+					AbsoluteLayout.LayoutBounds="308,411,14,42" />
+				<Image x:Name="egg_blue_ek2"
+					Source="egg_blue_ek2.png"
+					AbsoluteLayout.LayoutBounds="300,404,30,50" />
+				<BoxView x:Name="active_detail"
+					CornerRadius="1"
+					Color="#5D4AFF"
+					AbsoluteLayout.LayoutBounds="358,404,2,50" />
+				<Label x:Name="hard_blue"
+					FontFamily="Actor"
+					Opacity="0.9"
+					FontSize="18"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="62,563,101,43"
+					Text="Severity C"
+				 />
+				<Label x:Name="rebecca_morgan"
+					FontFamily="Actor"
+					Opacity="0.6"
+					FontSize="14"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="62,618,239,90"
+					Text="Suggested outdoor time:  2 h
+
+Suggested action: 
+Drink water every 30 minutes."
+				 />
+
+				<AbsoluteLayout x:Name="component___bottom_nav_ek2"
+					 AbsoluteLayout.LayoutBounds="0,756,390,88"
+					 >
+
+
+					<AbsoluteLayout x:Name="component___bottom_nav_ek3"
+						 AbsoluteLayout.LayoutBounds="0,0,390,88"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___bottom_nav_ek1"
+							 AbsoluteLayout.LayoutBounds="0,0,390,88"
+							 >
+
+							<BoxView x:Name="bottom_nav_container_ek1"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,2,390,88" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="white_color_ek3"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,390,1" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="component___home_indicator_ek2"
+							 AbsoluteLayout.LayoutBounds="0,53,390,35.2"
+							 >
+
+							<BoxView x:Name="dark_color_13_ek2"
+								CornerRadius="3"
+								Opacity="0.1"
+								Color="#262626"
+								AbsoluteLayout.LayoutBounds="120,21,150,6" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="third_tab_ek1"
+							 AbsoluteLayout.LayoutBounds="260,10,130,36.24"
+							 >
+
+							<Label x:Name="atoms_ek1"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								Opacity="0.4"
+								FontSize="10"
+								TextColor="#262626"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="User"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_circle_ek1"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek20"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="shape_ek5"
+									Source="shape_ek5.png"
+									AbsoluteLayout.LayoutBounds="2,2.07,16,16.56" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="second_tab_ek1"
+							 AbsoluteLayout.LayoutBounds="130,10,130,36.24"
+							 >
+
+							<Label x:Name="components_ek1"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								FontSize="10"
+								TextColor="#5D4AFF"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="Reports"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_triangle_ek1"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek21"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="shape_ek6"
+									Source="shape_ek6.png"
+									AbsoluteLayout.LayoutBounds="-0.05,1.09,20,16.51" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="first_tab_ek1"
+							 AbsoluteLayout.LayoutBounds="0,10,130,36.24"
+							 >
+
+							<Label x:Name="templates_ek1"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								Opacity="0.4"
+								FontSize="10"
+								TextColor="#262626"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="Scenarios"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_square_ek1"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek22"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="rectangle_ek7"
+									Source="rectangle_ek7.png"
+									AbsoluteLayout.LayoutBounds="3,3.11,14,14.49" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+
+
+			<Label x:Name="text_ek1"
+				FontFamily="Actor"
+				FontSize="12"
+				TextColor="#000000"
+				AbsoluteLayout.LayoutBounds="5079,31418,17,22"
+				Text=""
+			 />
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

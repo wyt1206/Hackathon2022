@@ -28,3 +28,4 @@ C:\Users\daruan\source\repos\Hackathon2022\TabbedPageWithNavigationPage\obj\Debu
 C:\Users\daruan\source\repos\Hackathon2022\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\daruan\source\repos\Hackathon2022\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.dll
 C:\Users\daruan\source\repos\Hackathon2022\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.pdb
+C:\Users\daruan\source\repos\Hackathon2022\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\user_profile.xaml.g.cs

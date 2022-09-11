@@ -1,0 +1,692 @@
+<ContentPage x:Class="main_page___scenario.main_page___scenario"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="main_page___scenario">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+			<AbsoluteLayout x:Name="page_main_page___scenario_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,390,844"
+				 >
+
+				<BoxView x:Name="_bg__main_page___scenario_ek2"
+					Color="#FFFFFF"
+					AbsoluteLayout.LayoutBounds="0,0,390,844" />
+
+				<AbsoluteLayout x:Name="list_item"
+					 AbsoluteLayout.LayoutBounds="0,0,390,844"
+					 >
+
+					<BoxView x:Name="noise_texture_light"
+						Color="#FAFAFA"
+						AbsoluteLayout.LayoutBounds="0,0,390,844" />
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners"
+						 AbsoluteLayout.LayoutBounds="20,514,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+					<Label x:Name="__17_84"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="135,534,173,30"
+						Text="Outdoor lying"
+					 />
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark"
+						 AbsoluteLayout.LayoutBounds="330,534,20,20"
+						 >
+
+						<BoxView x:Name="bounds"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle"
+							Source="rectangle.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="40,534,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+
+					<AbsoluteLayout x:Name="object"
+						 AbsoluteLayout.LayoutBounds="0,0,100,100"
+						 >
+
+						<Image x:Name="shadow"
+							Source="shadow.png"
+							AbsoluteLayout.LayoutBounds="60,560,35,51" />
+						<Image x:Name="shadow_ek1"
+							Source="shadow_ek1.png"
+							AbsoluteLayout.LayoutBounds="60,560,35,51" />
+						<BoxView x:Name="shadow_ek2"
+							Color="#D7D7D7"
+							AbsoluteLayout.LayoutBounds="60,560,35,51" > 
+													<!-- Effect support coming soon for Xamarin Forms -->
+						</BoxView>
+					</AbsoluteLayout>
+
+					<Image x:Name="lion_red"
+						Source="lion_red.png"
+						AbsoluteLayout.LayoutBounds="48,529,59.15,85" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="list_item_ek1"
+					 AbsoluteLayout.LayoutBounds="20,124,350,115"
+					 >
+
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners_ek1"
+						 AbsoluteLayout.LayoutBounds="0,0,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners_ek1"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1_ek1"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color_ek1"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+					<Label x:Name="__29_90"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,20,146,45"
+						Text="Outdoor running"
+					 />
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark_ek1"
+						 AbsoluteLayout.LayoutBounds="310,20,20,20"
+						 >
+
+						<BoxView x:Name="bounds_ek1"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle_ek1"
+							Source="rectangle_ek1.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture_ek1"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="20,20,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+					<BoxView x:Name="shadow_ek3"
+						Color="#D7D7D7"
+						AbsoluteLayout.LayoutBounds="43,68,29,29" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+					<Image x:Name="egg_blue"
+						Source="egg_blue.png"
+						AbsoluteLayout.LayoutBounds="33,15,48.74,85" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="list_item_ek2"
+					 AbsoluteLayout.LayoutBounds="20,644,350,115"
+					 >
+
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners_ek2"
+						 AbsoluteLayout.LayoutBounds="0,0,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners_ek2"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1_ek2"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color_ek2"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+					<Label x:Name="__58_79"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,20,94,30"
+						Text="Indoor"
+					 />
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark_ek2"
+						 AbsoluteLayout.LayoutBounds="310,20,20,20"
+						 >
+
+						<BoxView x:Name="bounds_ek2"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle_ek2"
+							Source="rectangle_ek2.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture_ek2"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="20,20,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+
+					<AbsoluteLayout x:Name="object_ek1"
+						 AbsoluteLayout.LayoutBounds="0,0,100,100"
+						 >
+
+						<Image x:Name="shadow_ek4"
+							Source="shadow_ek4.png"
+							AbsoluteLayout.LayoutBounds="45,1,29,47" />
+						<Image x:Name="shadow_ek5"
+							Source="shadow_ek5.png"
+							AbsoluteLayout.LayoutBounds="45,1,29,47" />
+						<BoxView x:Name="shadow_ek6"
+							Color="#D7D7D7"
+							AbsoluteLayout.LayoutBounds="45,1,29,47" > 
+													<!-- Effect support coming soon for Xamarin Forms -->
+						</BoxView>
+					</AbsoluteLayout>
+
+					<Image x:Name="sculpture_blue"
+						Source="sculpture_blue.png"
+						AbsoluteLayout.LayoutBounds="31,-70,52.42,85" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="list_item_ek3"
+					 AbsoluteLayout.LayoutBounds="20,254,350,115"
+					 >
+
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners_ek3"
+						 AbsoluteLayout.LayoutBounds="0,0,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners_ek3"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1_ek3"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color_ek3"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+					<Label x:Name="__109_89"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,20,165,45"
+						Text="Outdoor working"
+					 />
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark_ek3"
+						 AbsoluteLayout.LayoutBounds="310,20,20,20"
+						 >
+
+						<BoxView x:Name="bounds_ek3"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle_ek3"
+							Source="rectangle_ek3.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture_ek3"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="20,20,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+
+					<AbsoluteLayout x:Name="object_ek2"
+						 AbsoluteLayout.LayoutBounds="0,0,100,100"
+						 >
+
+						<Image x:Name="shadow_ek7"
+							Source="shadow_ek7.png"
+							AbsoluteLayout.LayoutBounds="46,-5,24,51" />
+						<Image x:Name="shadow_ek8"
+							Source="shadow_ek8.png"
+							AbsoluteLayout.LayoutBounds="46,-5,24,51" />
+						<BoxView x:Name="shadow_ek9"
+							Color="#D7D7D7"
+							AbsoluteLayout.LayoutBounds="46,-5,24,51" > 
+													<!-- Effect support coming soon for Xamarin Forms -->
+						</BoxView>
+					</AbsoluteLayout>
+
+					<Image x:Name="bomb_purple"
+						Source="bomb_purple.png"
+						AbsoluteLayout.LayoutBounds="38,-70,40.31,85" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="list_item_ek4"
+					 AbsoluteLayout.LayoutBounds="20,384,350,115"
+					 >
+
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners_ek4"
+						 AbsoluteLayout.LayoutBounds="0,0,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners_ek4"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1_ek4"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color_ek4"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark_ek4"
+						 AbsoluteLayout.LayoutBounds="310,20,20,20"
+						 >
+
+						<BoxView x:Name="bounds_ek4"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle_ek4"
+							Source="rectangle_ek4.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture_ek4"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="20,20,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+
+					<AbsoluteLayout x:Name="object_ek3"
+						 AbsoluteLayout.LayoutBounds="0,0,100,100"
+						 >
+
+						<Image x:Name="shadow_ek10"
+							Source="shadow_ek10.png"
+							AbsoluteLayout.LayoutBounds="43,-5,29,51" />
+						<Image x:Name="shadow_ek11"
+							Source="shadow_ek11.png"
+							AbsoluteLayout.LayoutBounds="43,-5,29,51" />
+						<BoxView x:Name="shadow_ek12"
+							Color="#D7D7D7"
+							AbsoluteLayout.LayoutBounds="43,-5,29,51" > 
+													<!-- Effect support coming soon for Xamarin Forms -->
+						</BoxView>
+					</AbsoluteLayout>
+
+					<Image x:Name="heart2_orange"
+						Source="heart2_orange.png"
+						AbsoluteLayout.LayoutBounds="33,-70,47.63,85" />
+					<Label x:Name="__109_89_ek1"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,20,165,45"
+						Text="Outdoor standing"
+					 />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="list_item_ek5"
+					 AbsoluteLayout.LayoutBounds="20,774,350,115"
+					 >
+
+
+					<AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners_ek5"
+						 AbsoluteLayout.LayoutBounds="0,0,350,115"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___white___drop_shadow_1___12px_rounded_corners_ek5"
+							 AbsoluteLayout.LayoutBounds="0,0,350,115"
+							 >
+
+							<BoxView x:Name="drop_shadow_1_ek5"
+								CornerRadius="12"
+								Opacity="0"
+								Color="#000000"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="background_color_ek5"
+								CornerRadius="12"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,350,115" />
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+					<Label x:Name="text"
+						FontFamily="Actor"
+						Opacity="0.6"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,55,234,50"
+						Text="The cat is either a house cat, a farm cat or a feral cat"
+					 />
+					<Label x:Name="__41_56"
+						FontFamily="Actor"
+						Opacity="0.9"
+						FontSize="14"
+						TextColor="#262626"
+						AbsoluteLayout.LayoutBounds="115,20,94,30"
+						Text="$41.56"
+					 />
+
+					<AbsoluteLayout x:Name="icon_20px_bookmark_ek5"
+						 AbsoluteLayout.LayoutBounds="310,20,20,20"
+						 >
+
+						<BoxView x:Name="bounds_ek5"
+							Color="#ffffff"
+							AbsoluteLayout.LayoutBounds="0,0,20,20" />
+						<Image x:Name="rectangle_ek5"
+							Source="rectangle_ek5.png"
+							AbsoluteLayout.LayoutBounds="3,2,14,16" />
+					</AbsoluteLayout>
+
+					<BoxView x:Name="picture_ek5"
+						CornerRadius="4"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="20,20,75,75" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+					<Image x:Name="cat_purple"
+						Source="cat_purple.png"
+						AbsoluteLayout.LayoutBounds="33,10,48.83,90" />
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="component___top_bar___standard"
+					 AbsoluteLayout.LayoutBounds="0,0,390,104"
+					 >
+
+
+					<AbsoluteLayout x:Name="component___top_bar"
+						 AbsoluteLayout.LayoutBounds="0,0,390,104"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___top_bar"
+							 AbsoluteLayout.LayoutBounds="0,0,390,104"
+							 >
+
+							<BoxView x:Name="top_bar_container"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,390,104" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="white_color"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,103,390,1" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="icon_30px_profile"
+							 AbsoluteLayout.LayoutBounds="340,59,30,30"
+							 >
+
+							<BoxView x:Name="bounds_ek6"
+								Color="#ffffff"
+								AbsoluteLayout.LayoutBounds="0,0,30,30" />
+							<Image x:Name="shape"
+								Source="shape.png"
+								AbsoluteLayout.LayoutBounds="4.16,3,21.77,23" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="icon_30px_menu"
+							 AbsoluteLayout.LayoutBounds="20,59,30,30"
+							 >
+
+							<BoxView x:Name="bounds_ek7"
+								Color="#ffffff"
+								AbsoluteLayout.LayoutBounds="0,0,30,30" />
+							<Image x:Name="shape_ek1"
+								Source="shape_ek1.png"
+								AbsoluteLayout.LayoutBounds="4,6,22,18" />
+						</AbsoluteLayout>
+
+						<Label x:Name="__"
+							FontFamily="Actor"
+							HorizontalTextAlignment="Center"
+							Opacity="0.9"
+							FontSize="18"
+							TextColor="#262626"
+							AbsoluteLayout.LayoutBounds="124,59,150,43"
+							Text="Outdoor Scenario"
+						 />
+					</AbsoluteLayout>
+
+				</AbsoluteLayout>
+
+
+				<AbsoluteLayout x:Name="component___bottom_nav"
+					 AbsoluteLayout.LayoutBounds="0,756,390,88"
+					 >
+
+
+					<AbsoluteLayout x:Name="component___bottom_nav_ek1"
+						 AbsoluteLayout.LayoutBounds="0,0,390,88"
+						 >
+
+
+						<AbsoluteLayout x:Name="container___bottom_nav"
+							 AbsoluteLayout.LayoutBounds="0,0,390,88"
+							 >
+
+							<BoxView x:Name="bottom_nav_container"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,2,390,88" > 
+															<!-- Effect support coming soon for Xamarin Forms -->
+							</BoxView>
+							<BoxView x:Name="white_color_ek1"
+								Opacity="0.6"
+								Color="#FFFFFF"
+								AbsoluteLayout.LayoutBounds="0,0,390,1" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="component___home_indicator"
+							 AbsoluteLayout.LayoutBounds="0,53,390,35.2"
+							 >
+
+							<BoxView x:Name="dark_color_13"
+								CornerRadius="3"
+								Opacity="0.1"
+								Color="#262626"
+								AbsoluteLayout.LayoutBounds="120,21,150,6" />
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="third_tab"
+							 AbsoluteLayout.LayoutBounds="260,10,130,36.24"
+							 >
+
+							<Label x:Name="atoms"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								Opacity="0.4"
+								FontSize="10"
+								TextColor="#262626"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="User"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_circle"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek8"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="shape_ek2"
+									Source="shape_ek2.png"
+									AbsoluteLayout.LayoutBounds="2,2.07,16,16.56" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="second_tab"
+							 AbsoluteLayout.LayoutBounds="130,10,130,36.24"
+							 >
+
+							<Label x:Name="components"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								Opacity="0.4"
+								FontSize="10"
+								TextColor="#262626"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="Reports"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_triangle"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek9"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="shape_ek3"
+									Source="shape_ek3.png"
+									AbsoluteLayout.LayoutBounds="-0.05,1.09,20,16.51" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+
+						<AbsoluteLayout x:Name="first_tab"
+							 AbsoluteLayout.LayoutBounds="0,10,130,36.24"
+							 >
+
+							<Label x:Name="templates"
+								FontFamily="Actor"
+								HorizontalTextAlignment="Center"
+								FontSize="10"
+								TextColor="#5D4AFF"
+								AbsoluteLayout.LayoutBounds="-2,25,140,17"
+								Text="Scenarios"
+							 />
+
+							<AbsoluteLayout x:Name="icon_20px_square"
+								 AbsoluteLayout.LayoutBounds="55,0,20,20.71"
+								 >
+
+								<BoxView x:Name="bounds_ek10"
+									Color="#ffffff"
+									AbsoluteLayout.LayoutBounds="0,0,20,20.71" />
+								<Image x:Name="rectangle_ek6"
+									Source="rectangle_ek6.png"
+									AbsoluteLayout.LayoutBounds="3,3.11,14,14.49" />
+							</AbsoluteLayout>
+
+						</AbsoluteLayout>
+
+					</AbsoluteLayout>
+
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+
+
+			<Label x:Name="text_ek1"
+				FontFamily="Actor"
+				FontSize="12"
+				TextColor="#000000"
+				AbsoluteLayout.LayoutBounds="5079,31418,17,22"
+				Text=""
+			 />
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

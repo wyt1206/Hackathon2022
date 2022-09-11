@@ -19,9 +19,10 @@ namespace TabbedPageWithNavigationPage
 
         public SettingsPage()
 		{
-            BindingContext = new Note();
+            
             InitializeComponent();
-           
+            BindingContext = new Note();
+
 
         }
 
@@ -49,7 +50,7 @@ namespace TabbedPageWithNavigationPage
                 await App.Database.SaveNoteAsync(new Note{
                     Name = nameEntry.Text,
                     Gender = genderEntry.Text,
-                    Age = int.Parse(ageEntry.Text),
+                    //Age = int.Parse(ageEntry.Text),
                     Height = int.Parse(heightEntry.Text),
                     Weight = int.Parse(weightEntry.Text),
                     Telephone = telephoneEntry.Text

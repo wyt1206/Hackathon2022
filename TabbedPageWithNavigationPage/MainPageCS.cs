@@ -13,6 +13,7 @@ namespace TabbedPageWithNavigationPage
 			Children.Add (new TodayPageCS ());
 			Children.Add (navigationPage);
 			Children.Add (new SettingsPage ());
+			Children.Add (new user_profileCS());
 		}
 	}
 }
