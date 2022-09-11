@@ -13,17 +13,17 @@
 				 AbsoluteLayout.LayoutBounds="0,0,390,844"
 				 >
 
-                    <BoxView x:Name="_bg__main_page___scenario_ek2"
+                    <!--<BoxView x:Name="_bg__main_page___scenario_ek2"
 					Color="#FFFFFF"
-					AbsoluteLayout.LayoutBounds="0,0,390,844" />
+					AbsoluteLayout.LayoutBounds="0,0,390,844" />-->
 
                     <AbsoluteLayout x:Name="list_item"
 					 AbsoluteLayout.LayoutBounds="0,0,390,844"
 					 >
 
-                        <BoxView x:Name="noise_texture_light"
+                        <!--<BoxView x:Name="noise_texture_light"
 						Color="#FAFAFA"
-						AbsoluteLayout.LayoutBounds="0,0,390,844" />
+						AbsoluteLayout.LayoutBounds="0,0,390,844" />-->
 
                         <AbsoluteLayout x:Name="detail___container___white___drop_shadow_1___12px_rounded_corners"
 						 AbsoluteLayout.LayoutBounds="20,514,350,115"
@@ -87,11 +87,10 @@
                             <Image x:Name="shadow_ek1"
 							Source="shadow_ek1.png"
 							AbsoluteLayout.LayoutBounds="60,560,35,51" />
-                            <BoxView x:Name="shadow_ek2"
+                            <!--<BoxView x:Name="shadow_ek2"
 							Color="#D7D7D7"
 							AbsoluteLayout.LayoutBounds="60,560,35,51" >
-                                <!-- Effect support coming soon for Xamarin Forms -->
-                            </BoxView>
+                            </BoxView>-->
                         </AbsoluteLayout>
 
                         <Image x:Name="lion_red"
@@ -156,11 +155,10 @@
 						AbsoluteLayout.LayoutBounds="20,20,75,75" >
                             <!-- Effect support coming soon for Xamarin Forms -->
                         </BoxView>
-                        <BoxView x:Name="shadow_ek3"
+                        <!--<BoxView x:Name="shadow_ek3"
 						Color="#D7D7D7"
 						AbsoluteLayout.LayoutBounds="43,68,29,29" >
-                            <!-- Effect support coming soon for Xamarin Forms -->
-                        </BoxView>
+                        </BoxView>-->
                         <Image x:Name="egg_blue"
 						Source="egg_blue.png"
 						AbsoluteLayout.LayoutBounds="33,15,48.74,85" />
@@ -234,11 +232,10 @@
                             <Image x:Name="shadow_ek5"
 							Source="shadow_ek5.png"
 							AbsoluteLayout.LayoutBounds="45,1,29,47" />
-                            <BoxView x:Name="shadow_ek6"
+                            <!--<BoxView x:Name="shadow_ek6"
 							Color="#D7D7D7"
 							AbsoluteLayout.LayoutBounds="45,1,29,47" >
-                                <!-- Effect support coming soon for Xamarin Forms -->
-                            </BoxView>
+                            </BoxView>-->
                         </AbsoluteLayout>
 
                         <Image x:Name="sculpture_blue"
@@ -317,7 +314,6 @@
                             <BoxView x:Name="shadow_ek9"
 							Color="#D7D7D7"
 							AbsoluteLayout.LayoutBounds="46,-5,24,51" >
-                                <!-- Effect support coming soon for Xamarin Forms -->
                             </BoxView>
                         </AbsoluteLayout>
 

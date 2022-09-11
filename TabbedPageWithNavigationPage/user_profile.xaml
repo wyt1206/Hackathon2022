@@ -121,9 +121,9 @@
 
                     </AbsoluteLayout>
 
-                    <Image x:Name="divider_ek1"
+                    <!--<Image x:Name="divider_ek1"
 					Source="divider_ek1.png"
-					AbsoluteLayout.LayoutBounds="20,492,350,2" />
+					AbsoluteLayout.LayoutBounds="20,492,350,2" />-->
                     <Image x:Name="divider_ek2"
 					Source="divider_ek2.png"
 					AbsoluteLayout.LayoutBounds="20,475,350,2" />

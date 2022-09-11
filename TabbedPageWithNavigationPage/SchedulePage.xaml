@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
-			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              android:TabbedPage.ToolbarPlacement="Bottom"
-			 x:Class="TabbedPageWithNavigationPage.SchedulePage"
+             x:Class="TabbedPageWithNavigationPage.SchedulePage" IconImageSource="shape_ek16.png"
 			 Title="REPORTS">
     <ContentPage.Content>
         <ScrollView>
@@ -19,7 +22,7 @@
 					AbsoluteLayout.LayoutBounds="0,0,390,844" />-->
 
                     <AbsoluteLayout x:Name="list_item_ek6"
-					 AbsoluteLayout.LayoutBounds="20,479,350,165"
+					 AbsoluteLayout.LayoutBounds="20,370,350,165"
 					 >
 
 
@@ -86,11 +89,10 @@
                             <!--<Image x:Name="shadow_ek18"
 							Source="shadow_ek18.png"
 							AbsoluteLayout.LayoutBounds="40,47,22,18" />-->
-                            <BoxView x:Name="shadow_ek19"
+                            <!--<BoxView x:Name="shadow_ek19"
 							Color="#D7D7D7"
 							AbsoluteLayout.LayoutBounds="40,47,22,18" >
-                                <!-- Effect support coming soon for Xamarin Forms -->
-                            </BoxView>
+                            </BoxView>-->
                         </AbsoluteLayout>
 
                         <Image x:Name="cube_orange"
@@ -100,7 +102,7 @@
 
 
                     <AbsoluteLayout x:Name="list_item_ek7"
-					 AbsoluteLayout.LayoutBounds="20,299,350,165"
+					 AbsoluteLayout.LayoutBounds="20,190,350,165"
 					 >
 
 
@@ -157,11 +159,10 @@
 						CornerRadius="4"
 						Color="#FFEEEC"
 						AbsoluteLayout.LayoutBounds="20,20,60,60" />
-                        <BoxView x:Name="shadow_ek20"
+                        <!--<BoxView x:Name="shadow_ek20"
 						Color="#D7D7D7"
 						AbsoluteLayout.LayoutBounds="40,47,21,21" >
-                            <!-- Effect support coming soon for Xamarin Forms -->
-                        </BoxView>
+                        </BoxView>-->
                         <Image x:Name="sphere_red"
 						Source="sphere_red.png"
 						AbsoluteLayout.LayoutBounds="33,33,34.96,35" />
@@ -169,7 +170,7 @@
 
 
                     <AbsoluteLayout x:Name="list_item_ek8"
-					 AbsoluteLayout.LayoutBounds="20,119,350,165"
+					 AbsoluteLayout.LayoutBounds="20,10,350,165"
 					 >
 
 
@@ -316,7 +317,7 @@
 
 
                     <AbsoluteLayout x:Name="list_item_ek9"
-					 AbsoluteLayout.LayoutBounds="20,659,350,165"
+					 AbsoluteLayout.LayoutBounds="20,550,350,165"
 					 >
 
 
@@ -334,7 +335,6 @@
 								Opacity="0"
 								Color="#000000"
 								AbsoluteLayout.LayoutBounds="0,0,350,165" >
-                                    <!-- Effect support coming soon for Xamarin Forms -->
                                 </BoxView>
                                 <BoxView x:Name="background_color_ek13"
 								CornerRadius="12"
@@ -400,11 +400,10 @@
                             <!--<Image x:Name="shadow_ek25"
 							Source="shadow_ek25.png"
 							AbsoluteLayout.LayoutBounds="35,44,30,23" />-->
-                            <BoxView x:Name="shadow_ek26"
+                            <!--<BoxView x:Name="shadow_ek26"
 							Color="#D7D7D7"
 							AbsoluteLayout.LayoutBounds="35,44,30,23" >
-                                <!-- Effect support coming soon for Xamarin Forms -->
-                            </BoxView>
+                            </BoxView>-->
                         </AbsoluteLayout>
 
                         <Image x:Name="pyramid_green"
@@ -416,7 +415,7 @@
                     </AbsoluteLayout>
 
 
-                    <AbsoluteLayout x:Name="component___bottom_nav_ek6"
+                    <!--<AbsoluteLayout x:Name="component___bottom_nav_ek6"
 					 AbsoluteLayout.LayoutBounds="0,756,390,88"
 					 >
 
@@ -434,7 +433,7 @@
 								Opacity="0.6"
 								Color="#FFFFFF"
 								AbsoluteLayout.LayoutBounds="0,2,390,88" >
-                                    <!-- Effect support coming soon for Xamarin Forms -->
+                                    --><!-- Effect support coming soon for Xamarin Forms --><!--
                                 </BoxView>
                                 <BoxView x:Name="white_color_ek7"
 								Opacity="0.6"
@@ -455,7 +454,7 @@
                             </AbsoluteLayout>
 
 
-                            <!--<AbsoluteLayout x:Name="third_tab_ek3"
+                            <AbsoluteLayout x:Name="third_tab_ek3"
 							 AbsoluteLayout.LayoutBounds="260,10,130,36.24"
 							 >
 
@@ -481,10 +480,10 @@
 									AbsoluteLayout.LayoutBounds="2,2.07,16,16.56" />
                                 </AbsoluteLayout>
 
-                            </AbsoluteLayout>-->
+                            </AbsoluteLayout>
 
 
-                            <!--<AbsoluteLayout x:Name="second_tab_ek5"
+                            <AbsoluteLayout x:Name="second_tab_ek5"
 							 AbsoluteLayout.LayoutBounds="130,10,130,36.24"
 							 >
 
@@ -509,10 +508,10 @@
 									AbsoluteLayout.LayoutBounds="-0.05,1.09,20,16.51" />
                                 </AbsoluteLayout>
 
-                            </AbsoluteLayout>-->
+                            </AbsoluteLayout>
 
 
-                            <!--<AbsoluteLayout x:Name="first_tab_ek3"
+                            <AbsoluteLayout x:Name="first_tab_ek3"
 							 AbsoluteLayout.LayoutBounds="0,10,130,36.24"
 							 >
 
@@ -538,9 +537,9 @@
 									AbsoluteLayout.LayoutBounds="3,3.11,14,14.49" />
                                 </AbsoluteLayout>
 
-                            </AbsoluteLayout>-->
+                            </AbsoluteLayout>
                         </AbsoluteLayout>
-                    </AbsoluteLayout>
+                    </AbsoluteLayout>-->
                 </AbsoluteLayout>
                 <!--<Label x:Name="text_ek1"
 				FontFamily="Actor"
