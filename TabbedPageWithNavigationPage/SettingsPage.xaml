@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:iosLocal="clr-namespace:SubclassedNativeControls.iOS;assembly=SubclassedNativeControls.iOS;targetPlatform=iOS" 
+             xmlns:androidLocal="clr-namespace:SubclassedNativeControls.Droid;assembly=SubclassedNativeControls.Droid;targetPlatform=Android"
+             xmlns:winControls="clr-namespace:Windows.UI.Xaml.Controls;assembly=Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime;targetPlatform=Windows" 
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             android:TabbedPage.ToolbarPlacement="Bottom"
+             x:Class="TabbedPageWithNavigationPage.SettingsPage" IconImageSource="settings.png" Title="Me">
+    <!--<StackLayout>
+        <Label Text="Name"/>
+        <Entry x:Name="nameEntry"  Placeholder="Default" Text ="{Binding Name}" Keyboard="Text" />
+        <Label Text="Gender"/>
+        <Entry x:Name="genderEntry" Placeholder="Male" Text ="{Binding Gender}" Keyboard="Text" />
+        --><!--<EntryCell x:Name="ageEntry" Label="Age" Placeholder="25" Keyboard="Numeric" Text="{Binding Age}"/>--><!--
+        <Label Text="You have chosen:" />
+        <Label Text="{Binding SelectedFruit}" /> 
+        <iosLocal:MyUIPickerView ItemsSource="{Binding Fruits}"
+                                 SelectedItem="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=SelectedItemChanged}" />
+        <androidLocal:MySpinner x:Arguments="{x:Static androidLocal:MainActivity.Instance}" 
+                                ItemsSource="{Binding Fruits}" SelectedObject="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=ItemSelected}" />
+        <winControls:ComboBox ItemsSource="{Binding Fruits}" SelectedItem="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=SelectionChanged}" />
+        <Label Text="Height"/>
+        <Entry x:Name="heightEntry" Placeholder="160" Keyboard="Numeric" Text ="{Binding Height}"/>
+        <Label Text="Weight"/>
+        <Entry x:Name="weightEntry" Placeholder="50" Text ="{Binding Weight}" Keyboard="Numeric"/>
+        <Label Text="Telephone"/>
+        <Entry x:Name="telephoneEntry" Placeholder="+1 012 345 6789" Keyboard="Telephone" Text ="{Binding Telephone}"/>
+        <Grid>
+            <Button Text="Save" 
+                        Clicked="OnSaveButtonClicked" />
+        </Grid>
+
+    </StackLayout>-->
+
+
+    <StackLayout>
+    <TableView>
+        <TableRoot>
+            <TableSection Title="Me">
+                <EntryCell x:Name="nameEntry" Label="Name" Placeholder="Default" Text ="{Binding Name}" Keyboard="Text" />
+                <EntryCell x:Name="genderEntry" Label="Gender" Placeholder="Male" Text ="{Binding Gender}" Keyboard="Text" />
+                <EntryCell x:Name="ageEntry" Label="Age" Placeholder="25" Keyboard="Numeric" Text="{Binding Age}"/>
+                <EntryCell x:Name="heightEntry" Label="Height" Placeholder="160" Keyboard="Numeric" Text ="{Binding Height}"/>
+                <EntryCell x:Name="weightEntry" Label="Weight" Placeholder="50" Text ="{Binding Weight}" Keyboard="Numeric"/>
+                <EntryCell x:Name="telephoneEntry" Label="Telephone" Placeholder="+1 012 345 6789" Keyboard="Telephone" Text ="{Binding Telephone}"/>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+        <Label Text="You have chosen:" />
+        <Label Text="{Binding SelectedFruit}" />
+        <!--<iosLocal:MyUIPickerView ItemsSource="{Binding Fruits}"
+                                 SelectedItem="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=SelectedItemChanged}" />
+        <androidLocal:MySpinner x:Name="Spinner" Arguments="{x:Static androidLocal:MainActivity.Instance}" 
+                                ItemsSource="{Binding Fruits}" SelectedObject="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=ItemSelected}" />
+        <winControls:ComboBox ItemsSource="{Binding Fruits}" SelectedItem="{Binding SelectedFruit, Mode=TwoWay, UpdateSourceEventName=SelectionChanged}" />
+        <Grid>
+        <Button Text="Save" 
+                        Clicked="OnSaveButtonClicked" />
+    </Grid>-->
+
+    </StackLayout>
+
+
+</ContentPage>

@@ -1,0 +1,107 @@
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             
+             x:Class="TabbedPageWithNavigationPage.start" IconImageSource="shape_ek16.png" Title="Start">
+	<ContentPage.Content>
+		<ScrollView>
+            <AbsoluteLayout>
+                <AbsoluteLayout x:Name="page_start_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,390,844"
+				 >
+
+				
+				<AbsoluteLayout x:Name="ui_icon_30px_pause"
+					 AbsoluteLayout.LayoutBounds="113,509,30,30"
+					 >
+
+					<BoxView x:Name="bounds_ek48"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,30,30" />
+					<Image x:Name="pause"
+						Source="pause.png"
+						AbsoluteLayout.LayoutBounds="5,5,40,40" />
+				</AbsoluteLayout>
+
+
+
+                    <Image x:Name="timer_countdown"
+					Source="timer_countdown.png"
+					AbsoluteLayout.LayoutBounds="120,356,162,130" />
+
+                    <Label x:Name="justin_holmes___matt"
+					FontFamily="Actor"
+					Opacity="0.6"
+					FontSize="14"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="60,315,274,30"
+					Text="Sunday, August 28"
+				 />
+				<Label x:Name="let_it_go__original"
+					FontFamily="Actor"
+					Opacity="0.9"
+					FontSize="18"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="60,215,157,43"
+					Text="Outdoor Running"
+				 />
+				<Label x:Name="let_it_go__original_ek1"
+					FontFamily="Actor"
+					Opacity="0.9"
+					FontSize="18"
+					TextColor="#262626"
+					AbsoluteLayout.LayoutBounds="60,265,205,43"
+					Text="Real temperature: 37.4C"
+				 />
+
+				<AbsoluteLayout x:Name="profile_picture"
+					 AbsoluteLayout.LayoutBounds="60,64,90,110"
+					 >
+
+					<BoxView x:Name="background"
+						CornerRadius="12"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,20,90,90" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+					<BoxView x:Name="mask"
+						CornerRadius="12"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,90,110" > 
+											<!-- Effect support coming soon for Xamarin Forms -->
+					</BoxView>
+					<BoxView x:Name="mask_ek1"
+						CornerRadius="12"
+						Color="#000000"
+						AbsoluteLayout.LayoutBounds="0,0,90,110" />
+					<Image x:Name="user1"
+						Source="user1.png"
+						AbsoluteLayout.LayoutBounds="-6,10,96.34,120" />
+				</AbsoluteLayout>
+
+
+
+				<AbsoluteLayout x:Name="icon_20px_square_ek4"
+					 AbsoluteLayout.LayoutBounds="249,509,30,30"
+					 >
+
+					<BoxView x:Name="bounds_ek52"
+						Color="#ffffff"
+						AbsoluteLayout.LayoutBounds="0,0,30,30" />
+					<Image x:Name="stop"
+						Source="stop.png"
+						AbsoluteLayout.LayoutBounds="4.5,4.5,40,40" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>
